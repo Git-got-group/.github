@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Hi there 👋 Welcome in Git Got Group
 
 **Here are some ideas to get you started:**
 
@@ -9,4 +7,4 @@
 👩‍💻 Useful resources - Find in  first contributions.
 🍿 Fun facts - Our Group member Eats Valuable PR in their Breakfast 😂.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
