@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome in Flutterfever
+## Hi  👋 Welcome in Flutterfever
 
 **Here are some ideas to get you started:**
 
